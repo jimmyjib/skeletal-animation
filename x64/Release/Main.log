@@ -1,0 +1,16 @@
+﻿  Animator.cpp
+C:\Users\jimmy\Desktop\Projects\프방\CSisLife\CSisLife\Main\Texture.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'FreeImage.h': No such file or directory
+  Ball.cpp
+C:\Users\jimmy\Desktop\Projects\프방\CSisLife\CSisLife\Main\Ball.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glut.h': No such file or directory
+  Face.cpp
+C:\Users\jimmy\Desktop\Projects\프방\CSisLife\CSisLife\Main\Face.h(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\jimmy\Desktop\Projects\프방\CSisLife\CSisLife\Main\Face.h(3,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\jimmy\Desktop\Projects\프방\CSisLife\CSisLife\Main\Face.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glut.h': No such file or directory
+  Joint.cpp
+C:\Users\jimmy\Desktop\Projects\프방\CSisLife\CSisLife\Main\Joint.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glut.h': No such file or directory
+  main.cpp
+C:\Users\jimmy\Desktop\Projects\프방\CSisLife\CSisLife\Main\Texture.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'FreeImage.h': No such file or directory
+  OBJ.cpp
+C:\Users\jimmy\Desktop\Projects\프방\CSisLife\CSisLife\Main\Texture.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'FreeImage.h': No such file or directory
+  Texture.cpp
+C:\Users\jimmy\Desktop\Projects\프방\CSisLife\CSisLife\Main\Texture.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'FreeImage.h': No such file or directory
